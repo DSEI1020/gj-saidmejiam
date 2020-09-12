@@ -2,7 +2,7 @@
 
 1. Clone repository
 2. Create markdown file named syllabus.md
-3. Answer the following questions:
+3. Answer the following questions: (I answered these question  inside the syllabus.md file)
   ```markdown
     Syllabus Qs
   -----------------------
@@ -11,5 +11,6 @@
   3. What on the syllabus scares you? 
   ```
  4. Work through creating an anaconda jupyter environment
+ I did it
  5. Lets use Jupyter notebooks/learn how the work:
     https://github.com/story645/install/blob/master/sections/jupyter.md
